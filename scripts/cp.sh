@@ -1,0 +1,1 @@
+$ICLOUD/shell/compile-qt.sh
